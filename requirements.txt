@@ -1,0 +1,9 @@
+gradio>=3.0,<4.0
+mlx
+mlx-whisper
+mlx-lm
+transformers
+sentencepiece
+torch
+numpy
+soundfile
