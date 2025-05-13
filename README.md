@@ -2,7 +2,7 @@
 
 This application provides a web interface using Gradio to (eventually) transcribe Japanese audio input and translate it to English.
 
-Currently, it uses **mock functions** for transcription and translation. You will need to replace these with actual machine learning models for real functionality.
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/c697eeba-733c-4fea-85ac-ff59d320cc9b" />
 
 ## Setup
 
